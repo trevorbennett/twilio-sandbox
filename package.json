@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/trevorbennett/twilio-sandbox#readme",
   "dependencies": {
-    "twilio": "^3.14.0"
+    "express": "^4.16.3",
+    "nodemailer": "^4.6.4",
+    "twilio": "^3.16.0"
   }
 }
